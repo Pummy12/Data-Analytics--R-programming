@@ -1,0 +1,12 @@
+{
+  v1<-20
+  v2<-2
+  sum=v1+v2
+  multiplication=v1*v2
+  substraction=v1-v2
+  division=v1/v2
+  print(sum)
+  print(multiplication)
+  print(substraction)
+  print(division)
+}
